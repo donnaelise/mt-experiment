@@ -25,7 +25,10 @@ body {
 }
 
 th {
-  padding: 15px !important;
+  padding: 5px !important;
+}
+table {
+  width:100% !important;
 }
 .sv_q_m_label {
   text-align: center;
