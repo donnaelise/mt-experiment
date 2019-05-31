@@ -1,0 +1,23 @@
+
+#container{
+  width:90%;
+  margin:auto;
+  padding-top:50px;
+  padding-bottom:50px;
+  background: #e9ecef !important;
+  border-radius: 0.3rem;
+  
+}
+#questions{
+  min-height: 300px;
+  width:80%;
+  margin:auto;
+  padding:10px;
+  border-radius: 3px;
+}
+#startButton a{
+  color: white !important;
+}
+#introText{
+  font-size:1.2em;
+}
