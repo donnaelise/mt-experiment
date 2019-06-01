@@ -22,7 +22,7 @@ survey
     });
 
 survey.onTimerPanelInfoText.add((sender, options) => {
-          options.text = 'You have 25 seconds for every question. There are '  + (25-survey.currentPage.timeSpent) + ' seconds left.';
+          options.text = 'You have 30 seconds for every question. There are '  + (30-survey.currentPage.timeSpent) + ' seconds left.';
     });
 
 $("#surveyElement").Survey({model: survey});
