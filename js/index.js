@@ -1,4 +1,4 @@
-var arr = ["vg1.html", "vg2.html", "vg3.html"];
+var arr = ["vg1.html", "vg2.html", "vg3.html", "vg3.html", "vg3.html"];
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
